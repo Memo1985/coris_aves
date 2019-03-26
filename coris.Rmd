@@ -1,0 +1,36 @@
+---
+title: "Descripción del sitio"
+---
+
+<p align="right"> *Jose Guillermo Ramírez Bogantes* </p>
+
+<p align="justify">
+La gira se realizó en el cantón central de Cartago, en el distrito de Quebradilla en una finca situada en el pueblo de Coris. Dicha finca se encuentra en la zona de vida de Bosque Húmedo con una precipitación aproximada de 1400 a 2000 mm y a una altura aproximada de 1390 m.
+</p>
+\
+\
+![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/mapa.jpg){width=2000px}
+
+*Figura 1:* Vista aerea de la zona.
+\
+\
+\
+\
+
+<p align="justify">
+La finca es utilizada para producción de ganado de leche y está dividida por apartos  que en ocasiones mediante canales de irrigación son inundados  formando así espejos de agua que son visitados por aves. 
+</p>
+
+![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/vacas.JPG){width=2000px}
+
+
+*Figura 2:* Vacas siendo arreadas para el posterior ordeño. Nótese los canales de riego.
+
+\
+\
+\
+\
+*Referencias Bibliográficas*
+<p align="justify">
+Inder,(2016). Caracterización del Territorio Cartago-Oreamuno-El Guarco-La Unión
+</p>

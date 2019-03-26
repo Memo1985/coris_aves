@@ -1,0 +1,32 @@
+---
+title: "Estatus de cada especie"
+---
+
+<p align="justify">
+La mayoría de aves vistas son residentes representando un 60% del total de las aves observadas, siendo las especie *Spatula discors* y *Quiscalus mexicanus* las especies residentes que mostraron mas individuos con 72 y 46 individuos respectivamente 
+</p>
+
+
+
+```{r echo=FALSE}
+spe<-c(7,37,16,2)
+estatus<-c("Migratoria","Residente","Residente-migratoria","Residente-endemica")     #grado de amenaza
+
+#pie(spe,labels =  "Estatus")
+
+porcenteje<-round(spe/sum(spe)*100)
+estatus<-paste(estatus,porcenteje)
+estatus<-paste(estatus,"%", sep = "") 
+pie(spe,labels = estatus,col = rainbow(length(estatus)),main="Estatus")
+
+```
+
+
+
+
+
+![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/Peter_La_Tourrette.jpg)
+
+Fotografía de *Spatula discors*  By Peter La Tourrette 
+
+

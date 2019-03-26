@@ -1,0 +1,14 @@
+name: "my-website"
+navbar:
+  title: "Coris Cartago"
+  left:
+    - text: "Descripción del sitio"
+      href: coris.html
+    - text: "Estatus"
+      href: index.html
+    - text: "Grado de Amenaza"
+      href: about.html
+    - text: "Comportamiento"
+      href: compor.html
+    
+   

@@ -1,0 +1,34 @@
+---
+title: "Grado de amenaza de las especies encontradas"
+---
+
+<p align="justify">
+De las 62 especies(ver tabla 1) registradas el 98% presentan una condición de bajo riesgo y un 2% presenta una condición  de Casi amenazada representada por la especie *Sturnella magna* 
+</p>
+\
+![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/tabla.jpg)
+
+*Tabla 1:* Especies encontradas 
+
+```{r echo=FALSE}
+sp<-c(1,63)
+Grado_a<-c("LC","NT")     #grado de amenaza
+#pie(sp,labels = Grado_a,main = "Grado de Amenaza")
+porcenteje<-round(sp/sum(sp)*100)
+Grado_a<-paste(Grado_a,porcenteje)
+Grado_a<-paste(Grado_a,"%", sep = "") 
+pie(sp,labels = Grado_a,col = rainbow(length(Grado_a)),main="Grado de Amenaza")
+
+```
+
+Grafico de pastel donde se representan el grado de amenaza  por sus siglas en ingles LC (Least Concern)"Bajo riesgo " y NT (Near Threatened) "Casi amenazada".
+
+\
+\
+\
+\
+
+
+![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/eame-1.jpg)
+
+Fotografía de *Sturnella magna* BY Peter La Tourrette 
