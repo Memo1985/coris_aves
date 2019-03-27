@@ -8,16 +8,16 @@ title: "Comportamiento de la especie "
 ![](C:/Users/Memo10/Desktop/coris/coris_aves/imagen_coris/garza.jpg)
 
 
+
 <p align="justify">
 **Bubulcus ibis** son pequeñas garzas que se asocian al pastoreo de especies de
-mamíferos domésticos y salvajes. Es un Ave de tamaño mediano (45.5 a 53 cm y un peso de 340 a 390 g) con pico, cuello y patas largas. No hay dimorfismo sexual. El plumaje es totalmente blanco. Los ojos y el pico normalmente son amarillos y las patas generalmente son grises, y en época reproductiva los ojos y el pico se tornan anaranjados.
+mamíferos domésticos y salvajes.Es un Ave de tamaño mediano (45.5 a 53 cm y un peso de 340 a 390 g) con pico, cuello y patas largas.No hay dimorfismo sexual.El plumaje es totalmente blanco.Los ojos y el pico normalmente son amarillos y las patas generalmente son grises, y en época reproductiva los ojos y el pico se tornan anaranjados.
 </p>
 \
 \
 \
 
-
-**<p align="center">Información taxonómica</p>**
+<p align="center">Información taxonómica</p>
 <p align="center">Reino: Animalia</p>
 <p align="center">Phylum: Craniata</p>
 <p align="center">Clase: Aves</p>
